@@ -1,0 +1,1 @@
+Mostly DB-API 2.0 (PEP 249) compliant. Includes an experimental Django 1.0 backend.
